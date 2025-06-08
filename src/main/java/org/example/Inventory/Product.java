@@ -18,9 +18,9 @@ import lombok.*;
 @NoArgsConstructor
 
 public class Product {
-    private int quantity; //sasia per 1 produkt
     private String name;
     private double price;
+    private int quantity; //sasia per 1 produkt
 
 
 }
