@@ -11,6 +11,7 @@ enum Genre {
     OTHER
 }
 
+
 public class Book {
     private String title;
     private double price;
